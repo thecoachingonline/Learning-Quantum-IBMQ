@@ -1,4 +1,4 @@
-# Install-Quantum-IBM
+# Learning-Quantum-IBMQ
 
 Qiskit [kiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
 
